@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/narynbaev-seiitbek">Narynbaev Seiitbek<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-### Hi there 👋
+<h1 align="center">Backend Developer</h1>
 
 <!--
 **narynbaev-seiitbek/narynbaev-seiitbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
