@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">I'm Narynbaev Seiitbek<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<p align="center">Java Developer</p>
+<p align="center">Software engineer</p>
 
 <hr>
 <Br>
